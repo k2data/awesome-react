@@ -6,3 +6,6 @@ react libs, resources, tools ...
 
 ## state
 1. [reactjs/reselect](https://github.com/reactjs/reselect "reactjs/reselect")
+
+## component
+1. [UniversalAvenue/react-compose](https://github.com/UniversalAvenue/react-compose "UniversalAvenue/react-compose")
