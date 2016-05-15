@@ -1,5 +1,5 @@
 # awesome-react
-react libs, resources, tools ...
+react libs, resources, tools ... not used.
 
 ## inline styles
 1. [FormidableLabs/radiumThis](https://github.com/FormidableLabs/radium "FormidableLabs/radiumThis")
@@ -9,3 +9,6 @@ react libs, resources, tools ...
 
 ## component
 1. [UniversalAvenue/react-compose](https://github.com/UniversalAvenue/react-compose "UniversalAvenue/react-compose")
+
+## loaders
+1. [jhamlet/svg-react-loader](https://github.com/jhamlet/svg-react-loader, "https://github.com/jhamlet/svg-react-loader")
