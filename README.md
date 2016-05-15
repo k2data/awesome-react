@@ -11,4 +11,7 @@ react libs, resources, tools ... not used.
 1. [UniversalAvenue/react-compose](https://github.com/UniversalAvenue/react-compose "UniversalAvenue/react-compose")
 
 ## loaders
-1. [jhamlet/svg-react-loader](https://github.com/jhamlet/svg-react-loader, "https://github.com/jhamlet/svg-react-loader")
+1. [jhamlet/svg-react-loader](https://github.com/jhamlet/svg-react-loader, "jhamlet/svg-react-loader")
+
+## dev tools
+1. [kadirahq/react-storybook](https://github.com/kadirahq/react-storybook, "kadirahq/react-storybook")
